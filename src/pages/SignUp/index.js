@@ -1,6 +1,8 @@
 import React, { useRef } from 'react';
 import { Image } from 'react-native';
 
+// import './config/ReactotronConfig';
+
 import logo from '~/assets/logo.png';
 import Background from '~/components/Background';
 
