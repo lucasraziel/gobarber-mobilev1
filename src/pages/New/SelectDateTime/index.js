@@ -30,6 +30,7 @@ export default function SelectDateTime({ navigation }) {
   }, [date, provider.id]);
 
   function handleSelectHour(time) {
+    console.tron.log(time);
     navigation.navigate('Confirm', {
       provider,
       time,
