@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://user-images.githubusercontent.com/26093830/81298384-16577a00-904b-11ea-8bd1-af5590094375.PNG" alt="Project logo" style="border-radius:50%"></a>
 </p>
 
-<h3 align="center">gobarber-web</h3>
+<h3 align="center">gobarber-Mobile</h3>
 
 
 
